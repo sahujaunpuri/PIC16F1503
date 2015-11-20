@@ -1,0 +1,22 @@
+_GetUsbI: CODE, 1001 0 35
+_warn_deal: CODE, 672 0 62
+_power: CODE, 888 0 39
+_Variates: CODE, 734 0 55
+___aldiv: CODE, 564 0 108
+_delay: CODE, 1180 0 20
+_GetBT: CODE, 965 0 36
+_powerInit_deal: CODE, 1064 0 19
+_charge_deal: CODE, 153 0 269
+_GetAD: CODE, 422 0 123
+_main: CODE, 1218 0 10
+_GetHotV: CODE, 1200 0 18
+_sleep_deal: CODE, 842 0 46
+_key_deal: CODE, 789 0 53
+_GetIsense: CODE, 1160 0 20
+_HOTPWM: CODE, 1118 0 21
+_smoke_deal: CODE, 1036 0 28
+_BTpower: CODE, 1092 0 26
+_itr: CODE, 4 0 147
+_Init: CODE, 927 0 38
+_USBPWM: CODE, 1139 0 21
+Total: 1194
